@@ -15,4 +15,3 @@ langchain_google_genai
 langchain-openai
 nltk
 pyyaml
-nltk
